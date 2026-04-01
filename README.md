@@ -1,4 +1,4 @@
-<img src="http://bbearhikari-beep.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+<img src="http://bbearhikari-beep.github.io/img/pyu.png" alt="RPB Photo" align="right" width="30%"/>
 
 # ZueZueWai
 ## student
