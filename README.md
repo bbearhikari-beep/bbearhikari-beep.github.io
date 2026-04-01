@@ -1,3 +1,3 @@
-# Zue Zue Wai
+# ZueZueWai
 ## student
 ### payapuniversity
