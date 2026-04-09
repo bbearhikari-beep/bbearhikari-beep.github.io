@@ -1,7 +1,5 @@
 <img src="ZZW.jpg" align="right" width="150"/>
 
-# Zue Zue Wai
-
 
 
 
