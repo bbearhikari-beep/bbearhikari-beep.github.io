@@ -1,3 +1,5 @@
+<img src="![ZZW]" align="right" width="150"/>
+
 
 
 
