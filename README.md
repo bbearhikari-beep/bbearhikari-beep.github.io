@@ -5,7 +5,7 @@
 
 
 # ZueZueWai
-*International Business Management Student |Interested in Marketing & Trends
+* International Business Management Student |Interested in Marketing & Trends
 # Education
 * Bachelor of International Business Management (In Progress), Payap University
 # Skills
