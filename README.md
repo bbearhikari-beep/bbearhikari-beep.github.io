@@ -10,10 +10,10 @@
 # Skills
 * Microsoft Office (Word, Excel, PowerPoint)
 * Basic English 
-*Thai (Basic communication skills)
+* Thai (Basic communication skills)
 # Interests
 * Enjoy experimenting with makeup and skincare products, focusing on trends and product effectiveness
 * Interested in K-pop and global entertainment trends
 # Contact Info
-*[Web Page](https://bbearhikari-beep.github.io)
-*[Twitter](https://twitter.com/bbearhikari)
+* [Web Page](https://bbearhikari-beep.github.io)
+* [Twitter](https://twitter.com/bbearhikari)
