@@ -16,4 +16,3 @@
 * Interested in K-pop and global entertainment trends
 # Contact Info
 * [Web Page](https://bbearhikari-beep.github.io)
-* [Twitter](https://twitter.com/bbearhikari)
